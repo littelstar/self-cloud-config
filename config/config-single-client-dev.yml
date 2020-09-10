@@ -1,2 +1,4 @@
 data:
   env: test-data-env-change
+  test: info
+  info: dev
